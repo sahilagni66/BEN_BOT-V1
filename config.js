@@ -67,7 +67,7 @@ global.autoreadmessages = false;
 global.chatbot = false;
 global.autoreact = false;
 
-global.prefix = '.';
+global.prefix = '-';
 
 
 global.welcome = false;
